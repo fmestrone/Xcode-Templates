@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!-- not used, just for reference --> 
+<dict>
+    <key>ContentVersion</key>
+    <string>1.0</string>
+    <key>IAPProductIdentifier</key>
+    <string>moodsdesign.tiva.___PACKAGENAMEASRFC1034IDENTIFIER___</string>
+</dict>
+</plist>
